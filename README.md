@@ -1,2 +1,2 @@
 # delta-git
-For Git and GitHub related tasks
+For Git and GitHub related tasks.
